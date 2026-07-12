@@ -20,7 +20,7 @@ DEFAULT_ADMIN_USERNAMES = ["AsAo04", "Justt_mmd"]
 DEFAULT_FORCE_JOIN_CHANNELS = [
     ("InstaSaveXX", "📥 دانلودر اینستاگرام"),
     ("filmie_i", "🎬 فیلم و سریال"),
-("yes_coine", "🎬  سریال"),
+    ("yes_coine", "🎬  سریال"),
 ]
 
 # لینک پیج اینستاگرام (برای دکمه فالو افتخاری توی جوین اجباری)
