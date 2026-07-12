@@ -24,7 +24,7 @@ DEFAULT_FORCE_JOIN_CHANNELS = [
 ]
 
 # لینک پیج اینستاگرام (برای دکمه فالو افتخاری توی جوین اجباری)
-INSTAGRAM_PAGE_URL = "https://instagram.com/instasavexx"
+INSTAGRAM_PAGE_URL = "https://instagram.com/instasavexx_bot"
 
 # نام و امضای ربات
 BOT_TITLE = "🎬 سینما ولت | CinemaVault"
