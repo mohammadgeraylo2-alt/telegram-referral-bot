@@ -31,5 +31,4 @@ BOT_TITLE = "🎬 سینما ولت | CinemaVault"
 DB_PATH = os.getenv("DB_PATH", "bot.db")
 
 # دقیقه‌های پاک شدن خودکار فایل ارسالی (0 = غیرفعال)
-AUTO_DELETE_MINUTES = int(os.getenv("AUTO_DELETE_MINUTE
-S", "0"))
+AUTO_DELETE_MINUTES = int(os.getenv("AUTO_DELETE_MINUTES", "0"))
